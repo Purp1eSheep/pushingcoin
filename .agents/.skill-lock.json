@@ -1,0 +1,60 @@
+{
+  "version": 3,
+  "skills": {
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/skills.git",
+      "skillPath": "skills/find-skills/SKILL.md",
+      "skillFolderHash": "76a98a285cb0434f3d39e1a873823556330e398b",
+      "installedAt": "2026-09-06T07:29:20.553Z",
+      "updatedAt": "2026-09-06T07:29:20.553Z"
+    },
+    "karpathy-guidelines": {
+      "source": "multica-ai/andrej-karpathy-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/multica-ai/andrej-karpathy-skills.git",
+      "skillPath": "skills/karpathy-guidelines/SKILL.md",
+      "skillFolderHash": "e119339197d600aa39a24fd7a95c946800c9c949",
+      "pluginName": "andrej-karpathy-skills",
+      "installedAt": "2026-09-08T05:10:05.876Z",
+      "updatedAt": "2026-09-08T05:10:05.876Z"
+    },
+    "grill-with-docs": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/mattpocock/skills.git",
+      "skillPath": "skills/engineering/grill-with-docs/SKILL.md",
+      "skillFolderHash": "eedaf2562c83155115e9c649fa3ecaac2e10e81d",
+      "pluginName": "mattpocock-skills",
+      "installedAt": "2026-09-08T15:24:30.200Z",
+      "updatedAt": "2026-09-08T15:24:30.200Z"
+    },
+    "metaskill": {
+      "source": "xvirobotics/metaskill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/xvirobotics/metaskill.git",
+      "skillPath": "skill/SKILL.md",
+      "skillFolderHash": "253582876d74376b7f455c85910f0853cffc9ec9",
+      "installedAt": "2026-09-15T10:43:05.629Z",
+      "updatedAt": "2026-09-15T10:43:05.629Z"
+    }
+  },
+  "dismissed": {
+    "findSkillsPrompt": true
+  },
+  "lastSelectedAgents": [
+    "amp",
+    "cline",
+    "codex",
+    "cursor",
+    "droid",
+    "gemini-cli",
+    "github-copilot",
+    "kilo",
+    "kimi-code-cli",
+    "opencode",
+    "warp",
+    "zed"
+  ]
+}
